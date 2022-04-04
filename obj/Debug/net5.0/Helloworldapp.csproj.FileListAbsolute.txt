@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\bin\Debug\net5.0\Helloworldapp.exe
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\bin\Debug\net5.0\Helloworldapp.deps.json
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\bin\Debug\net5.0\Helloworldapp.runtimeconfig.json
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\bin\Debug\net5.0\Helloworldapp.runtimeconfig.dev.json
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\bin\Debug\net5.0\Helloworldapp.dll
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\bin\Debug\net5.0\ref\Helloworldapp.dll
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\bin\Debug\net5.0\Helloworldapp.pdb
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\Helloworldapp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\Helloworldapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\Helloworldapp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\Helloworldapp.AssemblyInfo.cs
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\Helloworldapp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\Helloworldapp.dll
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\ref\Helloworldapp.dll
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\Helloworldapp.pdb
+C:\Users\User\Desktop\WellaHealth\Helloworldapp\obj\Debug\net5.0\Helloworldapp.genruntimeconfig.cache
